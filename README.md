@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Łukasz Ciskowski</h1>
 <h3 align="middle">I'm self directed, open minded, fast learning, master of engineering studies,
 with over 4 years of experience in manufacturing. 
-Experienced with 3D printing technology.
-Currently working as Production Manager and studying to become a Data Engineer.
+I'm studying to become a Data Engineer.
 
 </h3>
 
