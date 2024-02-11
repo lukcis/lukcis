@@ -1,27 +1,15 @@
-My Tech Stack:
+<h1 align="center">Hi 👋, I'm Łukasz Ciskowski</h1>
+<h3 align="middle">I'm self directed, open minded, fast learning, master of engineering studies,
+with over 4 years of experience in manufacturing. 
+Experienced with 3D printing technology.
+Currently working as Production Manager and studying to become a Data Engineer.
 
-<img src='https://github.com/lukcis/lukcis/assets/154468312/97e73d63-0f6c-4fbd-9fb3-37ec141f52d7' width='110'>
-<img src='https://github.com/lukcis/lukcis/assets/154468312/f5ba7ea0-78e2-455d-8697-b87622f01a5d' width='100'>
-<img src='https://github.com/lukcis/lukcis/assets/154468312/ccd5f15d-6104-478e-9e9a-27cbf0bfeefa' width='100'>
-<img src='https://github.com/lukcis/lukcis/assets/154468312/69cf8468-141f-45c3-8921-1818460d879c' width='120'>
-<img src='https://github.com/lukcis/lukcis/assets/154468312/ec6991b9-eac6-4c44-9448-fd83666d7d00' width='115'>
-<img src='https://github.com/lukcis/lukcis/assets/154468312/6c1083bb-7023-444f-a90a-241fc861a05e' width='100'>
+</h3>
 
-Contact:
+<h3 align="left">Contact:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/%C5%82ukasz-ciskowski-568301168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/łukasz-ciskowski-568301168" height="30" width="40" /></a>
+</p>
 
-<img src='https://github.com/lukcis/lukcis/assets/154468312/51fafbd2-c79e-4865-bcfd-7d23c1863d7c' width='100'>
-
-<!--
-**lukcis/lukcis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Tech Stack:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://powerbi.pl/microsoft-power-bi/zrodla-danych?gclid=CjwKCAiA_aGuBhACEiwAly57MUILndUYKvxsL9SenRd5yE5H8pZdGx-wneypsZvbbnubfibGrSXYMRoC17oQAvD_BwE" target="_blank" rel="noreferrer"> <img src='https://github.com/lukcis/lukcis/assets/154468312/ccd5f15d-6104-478e-9e9a-27cbf0bfeefa'" alt="powerbi" width="40" height="40"/> </a> <a href="https://www.microsoft.com/pl-pl/microsoft-365/excel?ef_id=_k_CjwKCAiA_aGuBhACEiwAly57MY7SZUEy9EU9SWtVxkj_8sPUehs__x1TsWBlFTQR6-fSWGJ2Nww4ERoCQLQQAvD_BwE_k_&OCID=AIDcmmfz7w4bdc_SEM__k_CjwKCAiA_aGuBhACEiwAly57MY7SZUEy9EU9SWtVxkj_8sPUehs__x1TsWBlFTQR6-fSWGJ2Nww4ERoCQLQQAvD_BwE_k_&gad_source=1&gclid=CjwKCAiA_aGuBhACEiwAly57MY7SZUEy9EU9SWtVxkj_8sPUehs__x1TsWBlFTQR6-fSWGJ2Nww4ERoCQLQQAvD_BwE" target="_blank" rel="noreferrer"> <img src='https://github.com/lukcis/lukcis/assets/154468312/69cf8468-141f-45c3-8921-1818460d879c'" alt="excel" width="40" height="40"/> </p>
