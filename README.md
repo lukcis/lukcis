@@ -3,6 +3,8 @@
 with over 4 years of experience in manufacturing. 
 I'm studying to become a Data Engineer.
 
+  I'm glad you're here. If you'd like, please check out my portfolio.
+
 </h3>
 
 <h3 align="left">Contact:</h3>
