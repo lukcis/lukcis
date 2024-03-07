@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Łukasz Ciskowski</h1>
 <h3 align="left">I'm self directed, open minded, fast learning, master of engineering studies,
 with over 4 years of experience in manufacturing. 
-In my current capacity, I have honed my skills in overseeing production processes, resource management, and ensuring adherence to the highest quality standards. Furthermore, my role has cultivated a collaborative spirit, as I actively engage with cross-functional teams to accomplish project objectives.
+In my current capacity, I have honed my skills in overseeing production processes, resource management, and ensuring adherence to the highest quality standards. 
+  </p>Furthermore, my role has cultivated a collaborative spirit, as I actively engage with cross-functional teams to accomplish project objectives.
 </p>
   Motivated by a strong desire to learn more about big data, I am fully dedicated to putting in the time and effort needed to become an excellent Data Engineer.
 </p>
