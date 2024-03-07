@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Łukasz Ciskowski</h1>
 <h3 align="middle">I'm self directed, open minded, fast learning, master of engineering studies,
 with over 4 years of experience in manufacturing. 
-I'm studying to become a Data Analyst.
 
   I'm glad you're here. If you'd like, please check out my portfolio.
 
